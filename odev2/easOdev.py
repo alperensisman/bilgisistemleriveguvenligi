@@ -2,7 +2,7 @@ import json
 from base64 import b64encode,b64decode
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
-
+#pip install pycryptodome
 
 def encryption(data):
     key = "rnop3TnHwJ7P9zzLb0Z3qUjfhu1Cx9bW".encode('utf-8')
