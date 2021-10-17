@@ -33,8 +33,22 @@ mykey="rnop3TnHwJ7P9zzLb0Z3qUjfhu1Cx9bW"
 
 #veriler=json.dumps({"iv": "crGTopEfBGXE1k1x", "ciphertext": "40YLp07vJIuR0TfMaNByWwXdtsp5YFy56MU37H8="}) 
 #mykey="wEgDCNvhccofPTkFt9zUdDgZDIVdGC9L"
-cozumlu = decryption(veriler,mykey.encode('utf8'))cozulemeyen=b'3\x9d\x98<\x8d\xc5\xfbX\xfc{\xf3K'cozulemeyen2=b'\9d\98\8d\c5\fb\fc\f3'#XDlkXDk4XDhkXGM1DGIMYwwz#print(str(cozumlu));liste=[]for ch in cozulemeyen2: 
-    liste.append(ch)for i in range(9999):
+cozumlu = decryption(veriler,mykey.encode('utf8'))
+
+cozulemeyen=b'3\x9d\x98<\x8d\xc5\xfbX\xfc{\xf3K'
+cozulemeyen2=b'\9d\98\8d\c5\fb\fc\f3'
+#XDlkXDk4XDhkXGM1DGIMYwwz
+#print(str(cozumlu));
+liste=[]
+for ch in cozulemeyen2: 
+    liste.append(ch)
+
+for i in range(9999):
     sting=""
     for x in liste:
-        sting+=chr(x^i)    if "grup uyelerinin" in sting:        print("bulundu")print("bitti")
+        sting+=chr(x^i)
+    if "grup uyelerinin" in sting:
+        print("bulundu")
+
+print("bitti")
+
