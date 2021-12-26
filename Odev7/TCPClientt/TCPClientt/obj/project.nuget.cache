@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XOFahVOWy4+RlAI9DIlp6VwwX7Q2E/leNY7RXCdL/fdQAwKvKBjyzmQ5lAXdytOgRsvX6WiWVlFqp289jyalw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deniz Ozdemir\\source\\repos\\TCPClientt\\TCPClientt\\TCPClientt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deniz Ozdemir\\.nuget\\packages\\bcrypt-official\\0.1.109\\bcrypt-official.0.1.109.nupkg.sha512",
+    "C:\\Users\\Deniz Ozdemir\\.nuget\\packages\\crypto\\1.0.1\\crypto.1.0.1.nupkg.sha512",
+    "C:\\Users\\Deniz Ozdemir\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "C:\\Users\\Deniz Ozdemir\\.nuget\\packages\\supersimpletcp\\2.1.0.12\\supersimpletcp.2.1.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BCrypt-Official 0.1.109' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt-Official",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Crypto 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Crypto",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
