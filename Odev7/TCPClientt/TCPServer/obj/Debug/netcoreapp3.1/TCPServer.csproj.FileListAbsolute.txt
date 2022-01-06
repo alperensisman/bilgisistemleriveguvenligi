@@ -18,3 +18,23 @@ C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1
 C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\Crypto.dll
 C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
 C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.serverform.resources
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.exe
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.pdb
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\BCrypt.Net.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\Crypto.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\bin\Debug\netcoreapp3.1\SimpleTcp.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csprojAssemblyReference.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.serverform.resources
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.GenerateResource.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CoreCompileInputs.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CopyComplete
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.pdb
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.genruntimeconfig.cache

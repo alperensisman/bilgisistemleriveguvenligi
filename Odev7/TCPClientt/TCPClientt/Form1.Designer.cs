@@ -53,7 +53,7 @@ namespace TCPClientt
             this.textIp.Name = "textIp";
             this.textIp.Size = new System.Drawing.Size(430, 23);
             this.textIp.TabIndex = 1;
-            this.textIp.Text = "192.168.56.1:9000";
+            this.textIp.Text = "192.168.1.45:9000";
             // 
             // btnConnect
             // 

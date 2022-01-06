@@ -10,7 +10,7 @@
     <PackageReference Include="BCrypt-Official" Version="0.1.109" />
     <PackageReference Include="Crypto" Version="1.0.1" />
     <PackageReference Include="SshNet.Security.Cryptography" Version="1.3.0" />
-    <PackageReference Include="SuperSimpleTcp" Version="2.1.0.12" />
+    <PackageReference Include="SuperSimpleTcp" Version="2.4.1.2" />
   </ItemGroup>
 
 </Project>

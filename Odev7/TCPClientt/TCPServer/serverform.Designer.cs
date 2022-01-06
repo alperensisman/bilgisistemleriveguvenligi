@@ -55,7 +55,7 @@ namespace TCPServer
             this.textIp.Name = "textIp";
             this.textIp.Size = new System.Drawing.Size(430, 23);
             this.textIp.TabIndex = 1;
-            this.textIp.Text = "192.168.56.1:9000";
+            this.textIp.Text = "192.168.1.45:9000";
             // 
             // btnStart
             // 
@@ -120,7 +120,7 @@ namespace TCPServer
             this.label3.TabIndex = 8;
             this.label3.Text = "Client IP:";
             // 
-            // Form1
+            // serverform
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -134,7 +134,7 @@ namespace TCPServer
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.textIp);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "serverform";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TCP/IP SERVER";
             this.Load += new System.EventHandler(this.Form1_Load);

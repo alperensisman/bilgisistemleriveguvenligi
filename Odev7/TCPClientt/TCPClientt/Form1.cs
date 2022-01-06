@@ -23,6 +23,10 @@ namespace TCPClientt
         {
             try
             {
+                client = new(textIp.Text);
+                client.Events.Connected += Events_Connected;
+                client.Events.Disconnected += Events_Disconnected;
+                client.Events.DataReceived += Events_DataReceived;
                 client.Connect();
                 btnSend.Enabled = true;
                 btnConnect.Enabled = false;
@@ -48,14 +52,10 @@ namespace TCPClientt
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            client = new(textIp.Text);
-            client.Events.Connected += Events_Connected;
-            client.Events.Disconnected += Events_Disconnected;
-            client.Events.DataReceived += Events_DataReceived;
             btnSend.Enabled = false;
         }
 
-        private void Events_DataReceived(object sender, DataReceivedFromServerEventArgs e)
+        private void Events_DataReceived(object sender, DataReceivedEventArgs e)
         {
             this.Invoke((MethodInvoker)delegate { 
                 textInfo.Text += $"Server: {aes.Decryption(Encoding.UTF8.GetString(e.Data))}{Environment.NewLine}";

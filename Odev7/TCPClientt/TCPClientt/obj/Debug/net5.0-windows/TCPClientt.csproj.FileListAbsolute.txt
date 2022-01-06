@@ -20,3 +20,26 @@ C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPClientt\obj\Debug\net5.0-windo
 C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\BCrypt.Net.dll
 C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\Crypto.dll
 C:\Users\Deniz Ozdemir\source\repos\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\TCPClientt.exe
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\TCPClientt.deps.json
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\TCPClientt.runtimeconfig.json
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\TCPClientt.runtimeconfig.dev.json
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\TCPClientt.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\ref\TCPClientt.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\TCPClientt.pdb
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\BCrypt.Net.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\Crypto.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\bin\Debug\net5.0-windows\SimpleTcp.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.csprojAssemblyReference.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.Form1.resources
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.csproj.GenerateResource.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.AssemblyInfoInputs.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.AssemblyInfo.cs
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.csproj.CoreCompileInputs.cache
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.csproj.CopyComplete
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\ref\TCPClientt.dll
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.pdb
+D:\Depolama\Eğitim\Üniversite\Bilgi Sistemleri ve Güvenliği\Ödevler\bilgisistemleriveguvenligi\Odev7\TCPClientt\TCPClientt\obj\Debug\net5.0-windows\TCPClientt.genruntimeconfig.cache

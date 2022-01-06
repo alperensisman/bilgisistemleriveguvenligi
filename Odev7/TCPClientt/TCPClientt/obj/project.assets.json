@@ -29,7 +29,7 @@
           "lib/netstandard2.0/SshNet.Security.Cryptography.dll": {}
         }
       },
-      "SuperSimpleTcp/2.1.0.12": {
+      "SuperSimpleTcp/2.4.1.2": {
         "type": "package",
         "compile": {
           "lib/net5.0/SimpleTcp.dll": {}
@@ -104,23 +104,27 @@
         "sshnet.security.cryptography.nuspec"
       ]
     },
-    "SuperSimpleTcp/2.1.0.12": {
-      "sha512": "kh+zb+ezZcxT1nSReby2Q3lKt/ZM7qvS5hfUIB3kw51Nj4DzqOK6IrTTQl4VU2FwqB2cffxA/1f5t7wPbmHbeA==",
+    "SuperSimpleTcp/2.4.1.2": {
+      "sha512": "WwNNUr88W2pa1o/1YaKZNgIhFuG/AKAEKcDDwqDZf3ntMfVUMPKrD0rp6HAywjxvAfBOd51trBcybiAQ6f3Q/A==",
       "type": "package",
-      "path": "supersimpletcp/2.1.0.12",
+      "path": "supersimpletcp/2.4.1.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "icon.png",
         "lib/net461/SimpleTcp.dll",
+        "lib/net461/SimpleTcp.xml",
         "lib/net5.0/SimpleTcp.dll",
-        "lib/netcoreapp3.0/SimpleTcp.dll",
-        "lib/netcoreapp3.0/SimpleTcp.xml",
+        "lib/net5.0/SimpleTcp.xml",
+        "lib/net6.0/SimpleTcp.dll",
         "lib/netcoreapp3.1/SimpleTcp.dll",
+        "lib/netcoreapp3.1/SimpleTcp.xml",
         "lib/netstandard2.0/SimpleTcp.dll",
         "lib/netstandard2.0/SimpleTcp.xml",
         "lib/netstandard2.1/SimpleTcp.dll",
-        "supersimpletcp.2.1.0.12.nupkg.sha512",
+        "lib/netstandard2.1/SimpleTcp.xml",
+        "supersimpletcp.2.4.1.2.nupkg.sha512",
         "supersimpletcp.nuspec"
       ]
     }
@@ -130,23 +134,23 @@
       "BCrypt-Official >= 0.1.109",
       "Crypto >= 1.0.1",
       "SshNet.Security.Cryptography >= 1.3.0",
-      "SuperSimpleTcp >= 2.1.0.12"
+      "SuperSimpleTcp >= 2.4.1.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Deniz Ozdemir\\.nuget\\packages\\": {}
+    "C:\\Users\\alper\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deniz Ozdemir\\source\\repos\\TCPClientt\\TCPClientt\\TCPClientt.csproj",
+      "projectUniqueName": "D:\\Depolama\\Eğitim\\Üniversite\\Bilgi Sistemleri ve Güvenliği\\Ödevler\\bilgisistemleriveguvenligi\\Odev7\\TCPClientt\\TCPClientt\\TCPClientt.csproj",
       "projectName": "TCPClientt",
-      "projectPath": "C:\\Users\\Deniz Ozdemir\\source\\repos\\TCPClientt\\TCPClientt\\TCPClientt.csproj",
-      "packagesPath": "C:\\Users\\Deniz Ozdemir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deniz Ozdemir\\source\\repos\\TCPClientt\\TCPClientt\\obj\\",
+      "projectPath": "D:\\Depolama\\Eğitim\\Üniversite\\Bilgi Sistemleri ve Güvenliği\\Ödevler\\bilgisistemleriveguvenligi\\Odev7\\TCPClientt\\TCPClientt\\TCPClientt.csproj",
+      "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+      "outputPath": "D:\\Depolama\\Eğitim\\Üniversite\\Bilgi Sistemleri ve Güvenliği\\Ödevler\\bilgisistemleriveguvenligi\\Odev7\\TCPClientt\\TCPClientt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Deniz Ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -186,7 +190,7 @@
           },
           "SuperSimpleTcp": {
             "target": "Package",
-            "version": "[2.1.0.12, )"
+            "version": "[2.4.1.2, )"
           }
         },
         "imports": [
@@ -207,7 +211,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -216,7 +220,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'BCrypt-Official 0.1.109' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "'BCrypt-Official 0.1.109' paketi, proje hedef çerçevesi 'net5.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
       "libraryId": "BCrypt-Official",
       "targetGraphs": [
         "net5.0-windows7.0"
@@ -226,7 +230,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Crypto 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "'Crypto 1.0.1' paketi, proje hedef çerçevesi 'net5.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
       "libraryId": "Crypto",
       "targetGraphs": [
         "net5.0-windows7.0"
